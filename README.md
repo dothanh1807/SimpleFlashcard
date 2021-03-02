@@ -1,6 +1,6 @@
 # SimpleFlashcard
 
-![xxx](https://user-images.githubusercontent.com/52622713/104834519-7c7ee700-58d2-11eb-9d48-ab329f15afb9.gif)
+![demo-flascard](https://user-images.githubusercontent.com/52622713/109625589-14c6e780-7b72-11eb-9340-490183856e4e.gif)
 
 ```javascript
 <?xml version="1.0" encoding="utf-8"?>
