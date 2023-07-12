@@ -6,6 +6,14 @@ plugins {
 }
 
 android {
+  signingConfigs {
+      release {
+          storeFile file('/Users/morsoftware/Desktop/upload-app.jks')
+          storePassword '123456'
+          keyAlias 'upload'
+          keyPassword '123456'
+      }
+  }
   compileSdkVersion 30
   buildToolsVersion "30.0.0"
 
